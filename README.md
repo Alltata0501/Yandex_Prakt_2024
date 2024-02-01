@@ -31,8 +31,8 @@
 <tr>
 <td> <b>5</b></td>
 <td><a href="https://nbviewer.jupyter.org/github/Higem11/Yandex-Data-Analysis/blob/master/6%20%D0%A1%D0%B1%D0%BE%D1%80%20%D0%B8%20%D1%85%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20-%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0%20%D0%B2%20%D0%B0%D0%B2%D0%B8%D0%B0%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8.ipynb" target="_blank"><b>Аналитика в авиакомпании</b></a></td>
-<td>Анализ перелетов по моделям самолетов за определенный период. Составление карты перелетов</td>
-<td>pandas, numpy, matplotlib, scipy, <b>bokeh</b></td>
+<td>Анализ убытков приложения ProcrastinatePRO+</td>
+<td>pandas, numpy, matplotlib, </td>
 <tr>
 <td> <b>6</b></td>
 <td><a href="https://nbviewer.jupyter.org/github/Higem11/Yandex-Data-Analysis/blob/master/7%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0%20%D0%B2%20JK%20%28%D0%B1%D0%B8%D0%BB%D0%B5%D1%82%D0%BD%D1%8B%D0%B9%20%D0%B0%D0%B3%D1%80%D0%B5%D0%B3%D0%B0%D1%82%D0%BE%D1%80%29.ipynb" target="_blank"><b>Анализ бизнес-показателей</b></a></td>
