@@ -30,7 +30,7 @@
 <td>pandas, numpy, matplotlib, scipy, seaborn </td>
 <tr>
 <td> <b>5</b></td>
-<td><a href="https://github.com/Alltata0501/Yandex_Prakt_2024/blob/main/5%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%83%D0%B1%D1%8B%D1%82%D0%BA%D0%BE%D0%B2%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20ProcrastinatePRO%2B/ubytki.ipynb" target="_blank"><b>Аналитика в авиакомпании</b></a></td>
+<td><a href="https://github.com/Alltata0501/Yandex_Prakt_2024/blob/main/5%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%83%D0%B1%D1%8B%D1%82%D0%BA%D0%BE%D0%B2%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20ProcrastinatePRO%2B/ubytki.ipynb" target="_blank"><b>Анализ убытков приложения ProcrastinatePRO+</b></a></td>
 <td>Анализ убытков приложения ProcrastinatePRO+</td>
 <td>pandas, numpy, matplotlib, </td>
 <tr>
